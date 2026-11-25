@@ -8,4 +8,4 @@ Tangerine is a little desktop buddy who hangs out on your Windows screen. She id
 
 The first release is the standalone Windows desktop buddy. It doesn’t include AI chat or require a local AI model.
 
-The installer isn’t available yet. When it’s ready, you’ll find it under [Releases](../../releases).
+[Download the latest Windows installer](https://github.com/wam-paisen/Tangerine-Downloads/releases/latest).
